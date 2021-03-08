@@ -50,6 +50,6 @@
 ----
 
 ## :star: Informações sobre minha conta GitHub
-[![Fabricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabricio-Lopees&show_icons=true&theme=tokyonight)](https://github.com/williamgebowski)
-[![Fabricio's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Lopees&layout=compact&theme=tokyonight)](https://github.com/williamgebowski)
+[![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamgebowski&show_icons=true&theme=tokyonight)](https://github.com/williamgebowski)
+[![William's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamgebowski&layout=compact&theme=tokyonight)](https://github.com/williamgebowski)
 
