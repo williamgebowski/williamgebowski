@@ -34,7 +34,7 @@
 </h4>
 
 <p align="left">
-  <a href="mailto:william.gebowski.duda@gmail.com@gmail.com" alt="Gmail">
+  <a href="mailto:william.gebowski.duda@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
