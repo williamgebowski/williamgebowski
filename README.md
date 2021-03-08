@@ -3,7 +3,7 @@
 <img src="image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 <p align="left"> 
-  Me chamo Fabrício Lopes, nasci e moro em Belo Horizonte - MG e tenho 17 anos. Atualmente com a meta de me tonar um Desenvolvedor Web Full-Stack, também estou me aventurando e amando o mundo Linux. :penguin: :grin:
+  Me chamo William Gebowski, nasci e moro em Sapucaia do Sul - RS e tenho 18 anos. Atualmente com a meta de me tonar um Desenvolvedor Web Full-Stack, também estou me aventurando e amando o mundo Linux. :penguin: :grin:
 </p>
 
 <p align="left"> :rocket: <strong>Minha Stack:</strong><br>
@@ -16,7 +16,7 @@
 
 <p align="left"> :briefcase: <strong>Ferramentas:</strong>
   <ul>
-    <li>Sublime-Text</li>
+    <li>Visual Studio Code</li>
   </ul>
 </p>
 
