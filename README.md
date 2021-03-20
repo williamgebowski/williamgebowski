@@ -49,8 +49,14 @@
 
 ----
 
-## :star: Informações sobre minha conta GitHub
+<p align = "center"><h1>:star:Informações sobre minha conta GitHub</h1></p>
+
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=williamgebowski&show_icons=true" alt = "williamgebowski" /> 
 </p>
+
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=williamgebowski&layout=compact&theme=white" alt = "williamgebowski" /> 
+</p>
+
 
