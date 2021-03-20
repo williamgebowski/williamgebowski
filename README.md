@@ -50,6 +50,7 @@
 ----
 
 ## :star: Informações sobre minha conta GitHub
-[![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamgebowski&show_icons=true&theme=tokyonight)](https://github.com/williamgebowski)
-[![William's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamgebowski&layout=compact&theme=tokyonight)](https://github.com/williamgebowski)
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true" alt = "williamgebowski" /> 
+</p>
 
