@@ -49,7 +49,7 @@
 
 ----
 
-<p align = "center"><h1>:star:Informações sobre minha conta GitHub</h1></p>
+<h1 align="center">:star:Informações sobre minha conta GitHub</h1>
 
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=williamgebowski&show_icons=true" alt = "williamgebowski" /> 
