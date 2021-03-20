@@ -51,6 +51,6 @@
 
 ## :star: Informações sobre minha conta GitHub
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true" alt = "williamgebowski" /> 
+<img src = "https://github-readme-stats.vercel.app/api?username=williamgebowski&show_icons=true" alt = "williamgebowski" /> 
 </p>
 
