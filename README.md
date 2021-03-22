@@ -47,6 +47,10 @@
   </a>
 </p>  
 
+<a href="https://linkedin.com/in/william-gebowski/"><img src="https://img.shields.io/badge/-Linkedin-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="mailto:william.gebowski.duda@gmail.com"><img src="https://img.shields.io/badge/-Email-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="https://instagram.com/will.bowski/"><img src="https://img.shields.io/badge/-Instagram-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
+
 ----
 
 <h1 align="center">:star:Informações sobre minha conta GitHub</h1>
