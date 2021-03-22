@@ -30,7 +30,7 @@
 </p>
 
 
-<h4 align="left">
+<h4 align="center">
   Caso deseje fazer alguma pergunta ou simplesmente bater um papo, sinta-se a vontade: :arrow_heading_down:
 </h4>
 
