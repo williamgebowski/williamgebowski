@@ -3,7 +3,9 @@
 <img src="image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 <p align="left"> 
-  Me chamo William Gebowski, nasci e moro em Sapucaia do Sul - RS e tenho 18 anos. Atualmente com a meta de me tonar um Desenvolvedor Web Full-Stack, também estou me aventurando e amando o mundo Linux. :penguin: :grin:
+Atualmente estou fazendo cursos livres na Digital Innovation One, Curso em Vídeo e na Rocktseat, em 2022 iniciarei meus estudos na Trybe, UniCesumar cursando Analise e Desenvolvimento de Sistemas e na English Live, ou seja, estou no processo para me tornar um desenvolvedor full-stack com inglês avançado.
+No momento estou trabalhando como jovem aprendiz no SENAI, e assim que acabar iniciarei meu estágio.
+Sou curioso e sempre quero aprender coisas novas! :penguin: :grin:
 </p>
 
 <p align="left"> :rocket: <strong>Minha Stack:</strong><br>
