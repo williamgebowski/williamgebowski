@@ -3,7 +3,12 @@
 <img src="image.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
 
 <p align="left"> 
+Sou apaixonado por Tecnologia e meu objetivo é aprender e aplicar todos os conhecimentos adquiridos.
+</p>
+<p align="left">
 Atualmente estou fazendo cursos livres na Digital Innovation One, Curso em Vídeo e na Rocktseat, em 2022 iniciarei meus estudos na Trybe, UniCesumar cursando Analise e Desenvolvimento de Sistemas e na English Live, ou seja, estou no processo para me tornar um desenvolvedor full-stack com inglês avançado.
+</p>
+<p align="left">
 No momento estou trabalhando como jovem aprendiz no SENAI, e assim que acabar iniciarei meu estágio.
 Sou curioso e sempre quero aprender coisas novas! :penguin: :grin:
 </p>
