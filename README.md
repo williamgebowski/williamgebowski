@@ -33,32 +33,20 @@
   Caso deseje fazer alguma pergunta ou simplesmente bater um papo, sinta-se a vontade: :arrow_heading_down:
 </h4>
 
-<p align="left">
-  <a href="https://mailto:william.gebowski.duda@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/william-gebowski-68647b195/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://api.whatsapp.com/send?phone=5551996289269&text=Olá, William Gebowski!" alt="Whatsapp">
+<p>
+<a href="https://api.whatsapp.com/send?phone=5551996289269&text=Olá, William Gebowski!" alt="Whatsapp">
     <img src="https://img.shields.io/badge/-Whatsapp-15d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>  
-
-<a href="https://linkedin.com/in/william-gebowski/"><img src="https://img.shields.io/badge/-Linkedin-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
-<a href="mailto:william.gebowski.duda@gmail.com"><img src="https://img.shields.io/badge/-Email-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="https://linkedin.com/in/william-gebowski/"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:william.gebowski.duda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/will.bowski/"><img src="https://img.shields.io/badge/-Instagram-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
-
+</p>
+  
 ----
 
 <h1 align="center">:star:Informações sobre minha conta GitHub</h1>
-
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=williamgebowski&show_icons=true" alt = "williamgebowski" /> 
 </p>
-
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=williamgebowski&layout=compact&theme=white" alt = "williamgebowski" /> 
 </p>
